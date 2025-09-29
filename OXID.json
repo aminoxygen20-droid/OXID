@@ -34,5 +34,10 @@
         "key": "DRAKON",
         "expirydate": "28-10-2025",
         "Allowoffline": false
-    },   
+    },
+    {
+        "device_id": "6fe3d3625c0181a5",
+        "key": "HEADKON",
+        "expirydate": "28-10-2025",
+        "Allowoffline": false
 ]
