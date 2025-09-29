@@ -28,5 +28,11 @@
         "key": "OB",
         "expirydate": "28-10-2025",
         "Allowoffline": false
+    },  
+    {
+        "device_id": "f4b0f887f9ac8952",
+        "key": "DRAKON",
+        "expirydate": "28-10-2025",
+        "Allowoffline": false
     },   
 ]
