@@ -34,5 +34,11 @@
         "key": "OXID",
         "expirydate": "28-09-2025",
         "Allowoffline": false
-    },    
+    },  
+    {
+        "device_id": "f2c45b56e00c40fa",
+        "key": "OXID",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
+    },   
 ]
