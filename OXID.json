@@ -40,5 +40,11 @@
         "key": "Lazy",
         "expirydate": "28-10-2026",
         "Allowoffline": false
-    },    
+    },   
+    {
+        "device_id": "52df9b07b8c105d8",
+        "key": "tenta",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
+    },   
 ]
