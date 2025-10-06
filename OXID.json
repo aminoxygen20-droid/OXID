@@ -59,4 +59,10 @@
         "expirydate": "28-10-2026",
         "Allowoffline": false
     },    
+     {
+        "device_id": "828efb3d485bb1fd",
+        "key": "M1",
+        "expirydate": "28-10-2026",
+        "Allowoffline": false
+    },    
 ]
