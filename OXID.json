@@ -71,4 +71,10 @@
         "expirydate": "28-10-2026",
         "Allowoffline": false
     },    
+    {
+        "device_id": "94d63aef945084bc",
+        "key": "MEHDI",
+        "expirydate": "28-10-2026",
+        "Allowoffline": false
+    },    
 ]
