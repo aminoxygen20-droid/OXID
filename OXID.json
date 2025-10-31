@@ -82,5 +82,10 @@
         "key": "MMMM",
         "expirydate": "28-10-2026",
         "Allowoffline": false
+    },     {
+        "device_id": "c9d02f8b16932815",
+        "key": "SAMETKONI",
+        "expirydate": "28-10-2026",
+        "Allowoffline": false
     },    
 ]
